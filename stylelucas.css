@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2? family= Manjari & family= Ubuntu:wght@300 & display=swap');
+
+* {
+	margin: 0;
+}
+
+div#topo {
+	width: 100vw;
+	height: 25vh;
+	background-color: #faf3f3;
+}
+
+img#topoimg {
+	width: 100px;
+	position: absolute;
+	margin-left: 8%;
+	border: 1px solid black;
+	border-radius: 50%;
+	margin-top: 1.7%;
+}
+
+img#sun {
+	width: 35px;
+	position: absolute;
+	margin-left: clamp(39%, 40%, 41%);
+	margin-top: 0.4%;
+	background-color: rgba(255, 255, 0, 0.2);
+	background-position: center;
+	border-radius: 50%;
+}
+
+img#email {
+	width: 30px;
+	margin-left: 53%;
+	margin-top: 2.5%;
+	position: absolute;
+}
+
+h3#contato {
+	margin-left: 49%;
+	margin-top: 4.5%;
+	font-size: 15px;
+	position: absolute;
+	font-family: 'Manjari', sans-serif;
+}
+
+ul.listatop {
+	background-color: transparent;
+	margin-left: 70%;
+	font-family: 'Manjari', sans-serif;
+	font-size: 15px;
+}
+
+b {
+	background-color: transparent;
+}
+
+h1#lbig,
+h2#llow {
+	background-color: transparent;
+	font-family: 'Manjari', sans-serif;
+	margin-top: 3%;
+	margin-left: 21%;
+	position: absolute;
+}
+
+div#menu {
+	background-color: #fff;
+	height: 3vh;
+}
+
+img#instaimg {
+	width: 20px;
+	background-color: transparent;
+	margin-left: 4.8em;
+}
+
+a {
+	text-decoration: none;
+	background-color: transparent;
+}
+
+a.instalink {
+	font-family: 'Manjari', sans-serif;
+	font-size: 15px;
+	color: #000;
+	margin-left: 7%;
+	position: absolute;
+	background-color: transparent;
+	display: inline-block;
+}
+
+a.steamlink {
+	font-family: 'Manjari', sans-serif;
+	font-size: 15px;
+	margin-left: 16%;
+	color: black;
+	background-color: transparent;
+	position: absolute;
+	display: inline-block;
+}
+
+img#steamimg {
+	width: 19px;
+	margin-left: 3.5em;
+	background-color: transparent;
+}
+
+a.githublink {
+	font-family: 'Manjari', sans-serif;
+	font-size: 15px;
+	margin-left: 24%;
+	color: black;
+	background-color: transparent;
+	position: absolute;
+	display: inline-block;
+}
+
+img#githubimg {
+	width: 19px;
+	margin-left: 3.5em;
+	background-color: transparent;
+}
+
+a.homelink {
+	font-family: 'Manjari', sans-serif;
+	font-size: 15px;
+	margin-left: 32%;
+	color: black;
+	background-color: transparent;
+	position: absolute;
+	display: inline-block;
+}
+
+img#homeimg {
+	width: 17px;
+	margin-left: 3.2em;
+	background-color: transparent;
+
+}
+
+a.quizlink {
+	font-family: 'Manjari', sans-serif;
+	font-size: 15px;
+	margin-left: 40%;
+	color: black;
+	background-color: transparent;
+	position: absolute;
+	display: inline-block;
+}
+
+img#quizimg {
+	width: 19px;
+	background-color: transparent;
+	margin-left: 2.7em;
+}
+
+font {
+	background-color: transparent;
+}
+
+div#conteudo {
+	width: 100vw;
+	background-color: #faf3f3;
+	height: 57vh;
+	position: absolute;
+	color: #000;
+}
+
+img#apollo,
+img#apollo1,
+img#apollo2,
+img#apollo3,
+img#apollo4,
+img#apollo5{
+	width: 200px;
+	position: absolute;
+	background-color: transparent;
+	margin-top: 3.6%;
+}
+
+img#apollo5 {
+	width: 180px;
+	margin-left: 85.9%;
+	opacity: 1;
+}
+
+img#apollo4 {
+	margin-left: 75.9%;
+	opacity: 0.8;
+}
+
+img#apollo {
+	margin-left: 65.9%;
+	opacity: 0.6;
+}
+
+img#apollo1 {
+	margin-left: 55.9%;
+	opacity: 0.4;
+}
+
+img#apollo2 {
+	margin-left: 45.9%;
+	opacity: 0.2;
+}
+
+img#apollo3 {
+	margin-left: 35.9%;
+	opacity: 0.1;
+}
+
+p{
+	text-align: left;
+}
+
+p.paragrafos {
+	margin-left: 7%;
+	margin-top: 1.5%;
+	background-color: transparent;
+	color: #000;
+	font-family: 'Manjari', sans-serif;
+	position: absolute;
+	text-align: left;
+}
+
+div#rodape {
+	padding-top: 1%;
+	background-color: #f1ebeb;
+	width: 100vw;
+	height: 13vh;
+	position: absolute;
+	margin-top: 27.1%;
+}
+
+h2#copyzada,
+h2#copyname {
+	color: black;
+	font-family: 'Manjari', sans-serif;
+	background-color: transparent;
+	text-align: center;
+	font-size: 20px;
+}
