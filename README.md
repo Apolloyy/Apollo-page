@@ -1,3 +1,2 @@
-Uma page criada por Lucas Vilarinho, utilizando html e css para o "site dos crias"
-em breve, um quiz sobre mim.
-obrigado por ler <3
+Uma page criada por Lucas Vilarinho, utilizando html e css para o "site dos crias".
+Em breve, um quiz sobre mim, utilizando js.
